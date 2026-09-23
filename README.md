@@ -65,5 +65,10 @@ vinharia-agnello/
     ├── js/
     │   └── script.js
     └── assets/
-        └── imgs/
+        ├── hero.mp4
+        └── hero.jpg
 ```
+
+## Créditos
+
+A Hero Section (vídeo de fundo) foi adaptada de um projeto pessoal anterior do Matheus.

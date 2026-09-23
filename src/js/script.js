@@ -207,7 +207,7 @@ function menuPrincipal() {
     alert("Até logo!");
 }
  
-menuPrincipal();
+setTimeout(menuPrincipal, 500);
 
 
 
